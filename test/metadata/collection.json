@@ -1,0 +1,22 @@
+{
+    "name": "TestingNFTs",
+    "symbol": "TEST",
+    "description": "5 High-quality TEST making Web 3 the best place",
+    "seller_fee_basis_points": 999,
+    "image": "https://raw.githubusercontent.com/peerezdev/assets/main/TokenpngVips.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/peerezdev/assets/main/TokenpngVips.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    },
+    "creators": [
+        {
+            "address": "Bd7yKhksz7xespqwvXeZZvRXPMLgK9Z13MzAuC3CMXkL",
+            "share": 100
+        }
+    ]
+}

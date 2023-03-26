@@ -1,7 +1,7 @@
 {
     "name": "",
     "symbol": "TEST",
-    "uri": "https://raw.githubusercontent.com/peerezdev/test/main/metadata/3.json",
+    "uri": "https://raw.githubusercontent.com/peerezdev/pruebas/master/test/metadata/3.json",
     "seller_fee_basis_points": 999,
     "creators": [
         {
