@@ -1,0 +1,26 @@
+{
+    "name": "Testing #4",
+    "symbol": "TEST",
+    "description": "5 High-quality TEST making Web 3 the best place",
+    "image": "https://nftstorage.link/ipfs/bafybeiccosmd4yhmzu3eptlobufmjom7y45fb655kc77pa7rq24cu7fddm/4.png",
+    "external_url": "",
+    "collection": {
+        "name": "TESTING",
+        "family": "LaunchMyNFT"
+    },
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "Pruebas4"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://nftstorage.link/ipfs/bafybeiccosmd4yhmzu3eptlobufmjom7y45fb655kc77pa7rq24cu7fddm/4.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}

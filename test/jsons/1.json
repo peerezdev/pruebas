@@ -1,0 +1,13 @@
+{
+    "name": "",
+    "symbol": "TEST",
+    "uri": "https://raw.githubusercontent.com/peerezdev/test/main/metadata/1.json",
+    "seller_fee_basis_points": 999,
+    "creators": [
+        {
+            "address": "Bd7yKhksz7xespqwvXeZZvRXPMLgK9Z13MzAuC3CMXkL",
+            "verified": true,
+            "share": 100
+        }
+    ]
+}
